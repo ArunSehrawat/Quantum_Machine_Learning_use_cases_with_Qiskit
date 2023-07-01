@@ -8,7 +8,7 @@ After Feature selection, we have shown how to perform classification with [Qiski
 
 __(3) QUBO_with_Qiskit:__ In this notebook, we have shown how to generate a general __QUBO__ problem and solve it using [__VQE__](https://qiskit.org/documentation/stubs/qiskit.algorithms.minimum_eigensolvers.SamplingVQE.html) and [__QAOA__](https://qiskit.org/documentation/stubs/qiskit.algorithms.QAOA.html) implementation of Qiskit. We have also given other methods for solving a QUBO problem.
 
-<img src="https://github.com/ArunSehrawat/Quantum_Machine_Learning_use_cases_with_Qiskit/assets/99533657/658d7316-ff38-4a2b-ae08-573c4860516e" width=50% height=50%>
+<img src="https://github.com/ArunSehrawat/Quantum_Machine_Learning_use_cases_with_Qiskit/assets/99533657/658d7316-ff38-4a2b-ae08-573c4860516e" width=30% height=30%>
 
 ![Screenshot from 2023-07-01 12-49-37](https://github.com/ArunSehrawat/Quantum_Machine_Learning_use_cases_with_Qiskit/assets/99533657/658d7316-ff38-4a2b-ae08-573c4860516e)
 
@@ -19,7 +19,8 @@ __(3) QUBO_with_Qiskit:__ In this notebook, we have shown how to generate a gene
 
 __(4) Image_Classification_using_QNN_with_Qiskit:__ In this notebook, we have created a dataset of images. Each image is---a binary matrix---made of either vertical strips (class 1) or horizontal strips (class 0). Here the machine learning task is to classify these two kinds of images. The task is completed using the [__VQC__](https://qiskit.org/documentation/stable/0.19/stubs/qiskit.aqua.algorithms.VQC.html#qiskit.aqua.algorithms.VQC).
 
-![Screenshot from 2023-07-01 12-47-17](https://github.com/ArunSehrawat/Quantum_Machine_Learning_use_cases_with_Qiskit/assets/99533657/b241f906-e467-44c4-a37e-b53c233e87de)
+
+<img src="https://github.com/ArunSehrawat/Quantum_Machine_Learning_use_cases_with_Qiskit/assets/99533657/b241f906-e467-44c4-a37e-b53c233e87de" width=30% height=30%>
 
 ![Screenshot from 2023-07-01 12-52-44](https://github.com/ArunSehrawat/Quantum_Machine_Learning_use_cases_with_Qiskit/assets/99533657/0889d3ed-e73e-43a8-98f5-881b158afd48)
 
