@@ -8,6 +8,8 @@ After Feature selection, we have shown how to perform classification with [Qiski
 
 __(3) QUBO_with_Qiskit:__ In this notebook, we have shown how to generate a general __QUBO__ problem and solve it using [__VQE__](https://qiskit.org/documentation/stubs/qiskit.algorithms.minimum_eigensolvers.SamplingVQE.html) and [__QAOA__](https://qiskit.org/documentation/stubs/qiskit.algorithms.QAOA.html) implementation of Qiskit. We have also given other methods for solving a QUBO problem.
 
+<img src="https://github.com/ArunSehrawat/Quantum_Machine_Learning_use_cases_with_Qiskit/assets/99533657/658d7316-ff38-4a2b-ae08-573c4860516e" width=50% height=50%>
+
 ![Screenshot from 2023-07-01 12-49-37](https://github.com/ArunSehrawat/Quantum_Machine_Learning_use_cases_with_Qiskit/assets/99533657/658d7316-ff38-4a2b-ae08-573c4860516e)
 
 ![Screenshot from 2023-07-01 12-53-18](https://github.com/ArunSehrawat/Quantum_Machine_Learning_use_cases_with_Qiskit/assets/99533657/0ec4be4d-9f6c-4b47-8aa3-3166060efcb0)
